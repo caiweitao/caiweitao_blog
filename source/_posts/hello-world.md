@@ -36,3 +36,14 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+`public class test {`
+
+
+`}`
+
+    public class Test {
+		public static int main () {
+			System.out.printl("hello world");
+		}
+	}
